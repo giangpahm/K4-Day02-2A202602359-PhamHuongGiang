@@ -6,7 +6,7 @@
 
 - Họ và tên: Phạm Hương Giang
 - Mã học viên: 2A202602359
-- Vai trò / bối cảnh: Học viên khóa AI thực chiến (AI20K Build Phase) & Sinh viên năm cuối.
+- Vai trò / bối cảnh: Học viên khóa AI thực chiến (AI20K Build Phase)
 - Công việc hằng tuần:
   - Tham gia lab thực hành 4 giờ, làm assignment trên GitHub và submit lên VLearn.
   - Học trực tiếp tại classroom, sử dụng máy chiếu và mic cho việc học / trình bày.
@@ -31,6 +31,7 @@
 | 8 | Tốn thời gian | Tìm teammate trên Phoenix theo skill matrix Tech vs Product. | Học viên cần lập nhóm | Mất 1–2 giờ đọc profile và nhắn tin. |
 | 9 | Pain từ người khác | Guest/student không có ID card phải chờ security viết ticket thủ công. | Security và guest/student | Mỗi ngoại lệ mất 1–2 phút; xảy ra vào khoảng 8h sáng. |
 | 10 | Tốn thời gian | Đọc guideline lab dài để tìm artifact cần nộp và phân biệt individual/group. | Học viên / nhóm | Mất khoảng 15 phút để scan và chia task. |
+| 11 | Lặp lại / Tốn thời gian | Đợi thang máy quá lâu vào mỗi đầu buổi học. | Sinh viên | Mất khoảng 5–10 phút chờ thang mỗi sáng; xảy ra 5 buổi/tuần; khoảng 10–15 sinh viên cùng chờ mỗi lượt, bị trì hoãn giờ học. |
 
 > Gợi ý tự soi: tuần trước mất nhiều thời gian nhất vào việc gì? Việc gì hay trì hoãn? Người khác hay hỏi lại câu gì? Workflow nào ai cũng biết là chậm?
 
